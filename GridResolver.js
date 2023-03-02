@@ -1,6 +1,7 @@
-
 //
-// This software is a copy of HamGridSquare.js from Paul Brewer KI6CQ with some modifications
+//	Henrique B. Gravina - PU3IKE
+//
+// This is a copy of HamGridSquare.js from Paul Brewer KI6CQ with some modifications to be a class
 // Original at: https://gist.githubusercontent.com/stephenhouser/4ad8c1878165fc7125cb547431a2bdaa/raw/44e08e82061f251cf3557a14fc5b322616daca88/HamGridSquare.js
 // License:  MIT License http://opensource.org/licenses/MIT
 //
