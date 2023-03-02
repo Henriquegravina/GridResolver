@@ -1,0 +1,14 @@
+{
+  "name": "GridWeb",
+  "version": "1.0.0",
+  "description": "A simple service that returns the data from a grid locator",
+  "main": "GridWeb.js",
+  "scripts": {
+    "start": "node GridWeb.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Henrique B. Gravina",
+  "license": "MIT"
+}
